@@ -1,1 +1,1 @@
-# architecture-website
+# minimalist-website
